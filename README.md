@@ -1,2 +1,10 @@
-# VSS-project-by-22101003-061-047-026
-for lab project purpose
+# Project title
+our project title were " LAW LINK "
+
+# PROJECT DESCRIPTION
+smart legal appointment and consultation system
+
+# TEAM MEMBERS
+Syed Ahsan Gulzar Shah
+Rana Ashir Sohail Soharwardi Naqshbandi Barelvi
+Arslan Azhar
